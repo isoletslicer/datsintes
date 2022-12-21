@@ -2,6 +2,8 @@ Datasintesa Backend Developer Test
 
 Tech Stack : Nest.js (TypeScript), Mongoose, Passport, JWT, bcrypt.
 
+Kindly clone this repostory first .
+
 ## Installation
 
 ```bash

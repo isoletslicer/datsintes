@@ -1,0 +1,57 @@
+[
+  {
+    "_id": {
+      "$oid": "63a1dbc3c26cb4c162654706"
+    },
+    "username": "penaldo",
+    "password": "$2b$10$9aazdTI06hKpIixvo5r1SeZTr21Q.GYsraemZYbgtGSOvddj8gQ5C",
+    "__v": 0,
+    "roles": [
+      "staff"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63a1e286ed659cb2c0624fd7"
+    },
+    "username": "pessi",
+    "password": "$2b$10$7JYkm5XpSMNPRrubhjBSCuWyLyZKGFu5TX/dEwTTvXkjvGefbIWZ.",
+    "__v": 0,
+    "roles": [
+      "staff"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63a238ac6cc6ab2c0167f94c"
+    },
+    "username": "waifu",
+    "password": "$2b$10$8M3keo2qWtO3L.tqR3HlNO0BuZAkQkhzE0uXs8ZCaR2JQS1zQFNIS",
+    "__v": 0,
+    "roles": [
+      "customer"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63a29505554def67d4dd0268"
+    },
+    "username": "becca",
+    "password": "$2b$10$APMbvTsoeQxw47UA3mGcbuJaxRx3i5z.GmU2cTfZuFEOmKDgzFIf6",
+    "roles": [
+      "customer"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63a29950c92db1925b38d2c2"
+    },
+    "username": "ishowspeed",
+    "password": "$2b$10$s/C1IE46hjckO906NgmnYOiQ0Sn7e7nWxtJBt1Wi.u6./y1DFQ8CC",
+    "roles": [
+      "customer"
+    ],
+    "__v": 0
+  }
+]

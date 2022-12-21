@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "63a2096d426b83ec372dba82"
+    },
+    "name": "kulkas mpeg",
+    "description": "ini kulkas mpeg",
+    "price": 100000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63a209a3426b83ec372dba84"
+    },
+    "name": "jabulani final ball",
+    "description": "ini bola jabulani final wc 2010",
+    "price": 100000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63a29b6355dc6157a14d92d0"
+    },
+    "name": "laptop eroge snsv",
+    "description": "ini laptop geming terpanas",
+    "price": 100000,
+    "__v": 0
+  }
+]
